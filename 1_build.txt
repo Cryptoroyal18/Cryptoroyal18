@@ -1,0 +1,23 @@
+2021-11-04T16:32:59.1920282Z ##[section]Starting: Prepare job build
+2021-11-04T16:32:59.2123200Z Evaluating strategy
+2021-11-04T16:32:59.2124380Z Creating job 'aarch64'
+2021-11-04T16:32:59.2124651Z Evaluating timeout
+2021-11-04T16:32:59.2124683Z Evaluating cancel timeout
+2021-11-04T16:32:59.2124715Z Evaluating continue on error
+2021-11-04T16:32:59.2124748Z Evaluating target
+2021-11-04T16:32:59.2125090Z Creating job 'arm'
+2021-11-04T16:32:59.2125232Z Evaluating timeout
+2021-11-04T16:32:59.2125256Z Evaluating cancel timeout
+2021-11-04T16:32:59.2125284Z Evaluating continue on error
+2021-11-04T16:32:59.2125316Z Evaluating target
+2021-11-04T16:32:59.2125536Z Creating job 'i686'
+2021-11-04T16:32:59.2126211Z Evaluating timeout
+2021-11-04T16:32:59.2126237Z Evaluating cancel timeout
+2021-11-04T16:32:59.2126265Z Evaluating continue on error
+2021-11-04T16:32:59.2126295Z Evaluating target
+2021-11-04T16:32:59.2126539Z Creating job 'x86_64'
+2021-11-04T16:32:59.2126673Z Evaluating timeout
+2021-11-04T16:32:59.2126696Z Evaluating cancel timeout
+2021-11-04T16:32:59.2126724Z Evaluating continue on error
+2021-11-04T16:32:59.2126760Z Evaluating target
+2021-11-04T16:32:59.2128891Z ##[section]Finishing: Prepare job build
